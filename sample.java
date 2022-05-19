@@ -1,10 +1,11 @@
-public class{
-public static void main (String[]args){
+public class Sample{
 
-int a = 21;
-int b = 22;
+	public static void main (String[]args){
 
-System.out.println(a+b);
+		int a = 21;
+		int b = 22;
 
-}
+		System.out.println("The sum of the above numbers is " + (a+b));
+
+	}
 }
